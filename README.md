@@ -10,4 +10,8 @@ https://github.com/huewu/PinterestLikeAdapterView
 
 
 
-xiaowei
+Volley框架使用Https
+http://www.apkbus.com/home.php?mod=space&do=blog&uid=78099&id=59803
+
+
+
