@@ -21,3 +21,11 @@ http://www.csdn.net/tag/android/news
 
 
 
+#MDCC参会总结之Android
+http://blog.cgsdream.org/2015/10/21/mdcccan-hui-zong-jie-zhi-android/
+
+#Android性能优化
+http://blog.csdn.net/elinavampire/article/details/49230621
+
+#Activitylifecyclecallbacks使用
+http://souly.cn/技术博文/2015/11/25/ActivityLifecycleCallbacks使用/
