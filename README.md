@@ -12,6 +12,12 @@ http://blog.csdn.net/qinjuning/article/details/8051811
 http://blog.csdn.net/qinjuning/article/details/8074262
 
 
+##Android部分开源源码解析
+https://github.com/android-cn/android-open-project-analysis
+
+#Android开源源码地址open-project
+https://github.com/Trinea/android-open-project
+
 
 Volley框架使用Https
 http://www.apkbus.com/home.php?mod=space&do=blog&uid=78099&id=59803
