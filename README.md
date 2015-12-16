@@ -6,7 +6,10 @@ This is an Android tools index for Android developers
 https://github.com/huewu/PinterestLikeAdapterView
 
 记得学习哦，亲
-
+##Android基础知识
+#Android中measure过程、WRAP_CONTENT详解以及xml布局文件解析流程浅析
+http://blog.csdn.net/qinjuning/article/details/8051811
+http://blog.csdn.net/qinjuning/article/details/8074262
 
 
 
