@@ -10,6 +10,8 @@ https://github.com/huewu/PinterestLikeAdapterView
 #Android中measure过程、WRAP_CONTENT详解以及xml布局文件解析流程浅析
 http://blog.csdn.net/qinjuning/article/details/8051811
 http://blog.csdn.net/qinjuning/article/details/8074262
+#CSDN博主分析Android文章
+http://blog.csdn.net/singwhatiwanna/article/category/1405419
 
 
 ##Android部分开源源码解析
@@ -53,3 +55,9 @@ https://github.com/sungerk/meiShi
 http://p.codekk.com/
 #Recyclerview 开源demo
 https://github.com/cundong/HeaderAndFooterRecyclerView
+
+#CleverRecyclerView 是一个基于RecyclerView的扩展库，提供了与ViewPager类似的滑动效果并且添加了一些有用的特性。
+https://github.com/luckyandyzhang/CleverRecyclerView
+
+#Android标签使用FlowLayout
+https://github.com/hongyangAndroid/FlowLayout
