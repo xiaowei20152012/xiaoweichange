@@ -45,3 +45,11 @@ http://www.jcodecraeer.com/a/anzhuokaifa/developer/2015/0531/2958.html?mType=Gro
 
 #Android5.0+(CoordinatorLayout)
 http://my.oschina.net/kooeasy/blog/484593
+
+#Material Design App风格demo
+https://github.com/sungerk/meiShi
+
+#codeKK  Android 开源项目
+http://p.codekk.com/
+#Recyclerview 开源demo
+https://github.com/cundong/HeaderAndFooterRecyclerView
