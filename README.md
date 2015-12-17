@@ -61,3 +61,8 @@ https://github.com/luckyandyzhang/CleverRecyclerView
 
 #Android标签使用FlowLayout
 https://github.com/hongyangAndroid/FlowLayout
+
+#Android插件化使用
+https://github.com/Qihoo360/DroidPlugin
+解释
+http://blog.csdn.net/jiangwei0910410003/article/details/48104581
