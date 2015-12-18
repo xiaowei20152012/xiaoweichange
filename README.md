@@ -64,5 +64,7 @@ https://github.com/hongyangAndroid/FlowLayout
 
 #Android插件化使用
 https://github.com/Qihoo360/DroidPlugin
+#dynamic动态插件化使用
+https://github.com/singwhatiwanna/dynamic-load-apk
 解释
 http://blog.csdn.net/jiangwei0910410003/article/details/48104581
