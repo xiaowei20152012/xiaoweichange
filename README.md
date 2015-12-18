@@ -36,6 +36,7 @@ http://blog.cgsdream.org/2015/10/21/mdcccan-hui-zong-jie-zhi-android/
 
 #Android性能优化
 http://blog.csdn.net/elinavampire/article/details/49230621
+http://blog.csdn.net/u010687392/article/details/49909477
 
 #Activitylifecyclecallbacks使用
 http://souly.cn/技术博文/2015/11/25/ActivityLifecycleCallbacks使用/
