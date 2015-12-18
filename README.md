@@ -47,6 +47,8 @@ http://www.jcodecraeer.com/a/anzhuokaifa/developer/2015/0531/2958.html?mType=Gro
 
 #Android5.0+(CoordinatorLayout)
 http://my.oschina.net/kooeasy/blog/484593
+#Android中CoordinatorLayout使用Demo
+https://github.com/sungerk/CoordinatorLayoutDemos
 
 #Material Design App风格demo
 https://github.com/sungerk/meiShi
