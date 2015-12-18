@@ -1,9 +1,7 @@
 # Android - Tools Index
 This is an Android tools index for Android developers
-
-#some open libraries
-瀑布流控件
-https://github.com/huewu/PinterestLikeAdapterView
+#开源大师torvalds
+https://github.com/torvalds/
 
 记得学习哦，亲
 ##Android基础知识
@@ -16,6 +14,7 @@ http://blog.csdn.net/singwhatiwanna/article/category/1405419
 
 ##Android部分开源源码解析
 https://github.com/android-cn/android-open-project-analysis
+#some open libraries
 
 #Android开源源码地址open-project
 https://github.com/Trinea/android-open-project
@@ -70,3 +69,5 @@ https://github.com/Qihoo360/DroidPlugin
 https://github.com/singwhatiwanna/dynamic-load-apk
 解释
 http://blog.csdn.net/jiangwei0910410003/article/details/48104581
+瀑布流控件
+https://github.com/huewu/PinterestLikeAdapterView
