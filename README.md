@@ -36,7 +36,6 @@ http://blog.cgsdream.org/2015/10/21/mdcccan-hui-zong-jie-zhi-android/
 
 #Android性能优化
 http://blog.csdn.net/elinavampire/article/details/49230621
-http://blog.csdn.net/u010687392/article/details/49909477
 
 #Activitylifecyclecallbacks使用
 http://souly.cn/技术博文/2015/11/25/ActivityLifecycleCallbacks使用/
@@ -72,3 +71,6 @@ https://github.com/singwhatiwanna/dynamic-load-apk
 http://blog.csdn.net/jiangwei0910410003/article/details/48104581
 瀑布流控件
 https://github.com/huewu/PinterestLikeAdapterView
+
+#使用ImageLoader方法以及遇到OOM解决办法
+http://blog.csdn.net/xiaanming/article/details/26810303
