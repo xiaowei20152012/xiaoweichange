@@ -74,3 +74,6 @@ https://github.com/huewu/PinterestLikeAdapterView
 
 #使用ImageLoader方法以及遇到OOM解决办法
 http://blog.csdn.net/xiaanming/article/details/26810303
+
+#一个不错的前后台demo
+https://github.com/SilenceDut/
