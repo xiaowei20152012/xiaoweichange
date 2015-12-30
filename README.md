@@ -77,3 +77,9 @@ http://blog.csdn.net/xiaanming/article/details/26810303
 
 #一个不错的前后台demo
 https://github.com/SilenceDut/
+#2015Android开源框架
+http://www.jianshu.com/p/aa7238cd8daf
+#Android制作粒子爆炸特效
+http://blog.csdn.net/crazy__chen/article/details/50149619
+#艺龙十万级服务器监控系统开发的架构和心得
+http://geek.csdn.net/news/detail/48627
