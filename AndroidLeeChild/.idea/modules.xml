@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AndroidLeeChild.iml" filepath="$PROJECT_DIR$/AndroidLeeChild.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/douya/douya.iml" filepath="$PROJECT_DIR$/douya/douya.iml" />
       <module fileurl="file://$PROJECT_DIR$/leechild/leechild.iml" filepath="$PROJECT_DIR$/leechild/leechild.iml" />
       <module fileurl="file://$PROJECT_DIR$/mygreendao/mygreendao.iml" filepath="$PROJECT_DIR$/mygreendao/mygreendao.iml" />
       <module fileurl="file://$PROJECT_DIR$/mygreenerator/mygreenerator.iml" filepath="$PROJECT_DIR$/mygreenerator/mygreenerator.iml" />

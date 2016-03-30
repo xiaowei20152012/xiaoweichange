@@ -1,1 +1,1 @@
-include ':app', ':leechild', ':mygreendao', ':mygreenerator'
+include ':app', ':leechild', ':mygreendao', ':mygreenerator', ':douya'
