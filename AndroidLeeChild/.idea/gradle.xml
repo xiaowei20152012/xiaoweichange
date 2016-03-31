@@ -9,9 +9,13 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/LeeChild" />
             <option value="$PROJECT_DIR$/app" />
+<<<<<<< 59fd642451390236f1166d9246dc43a31d5fc808
             <option value="$PROJECT_DIR$/douya" />
             <option value="$PROJECT_DIR$/leechild" />
+=======
+>>>>>>> 331
             <option value="$PROJECT_DIR$/mygreendao" />
             <option value="$PROJECT_DIR$/mygreenerator" />
           </set>
