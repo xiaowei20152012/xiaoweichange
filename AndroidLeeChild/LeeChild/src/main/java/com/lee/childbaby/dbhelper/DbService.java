@@ -1,15 +1,15 @@
-package com.lee.mygreendao.dbhelpers;
+package com.lee.childbaby.dbhelper;
 
 import android.content.Context;
 import android.text.TextUtils;
 
-import com.guangda.dao.DaoSession;
-import com.guangda.dao.UsersDao;
-import com.lee.mygreendao.LeeApplication;
+import com.lee.dao.DaoSession;
+import com.lee.dao.UsersDao;
+import com.lee.childbaby.LeeApplication;
 
 import java.util.List;
 
-import greendao.Users;
+import com.lee.entitys.Users;
 
 /**
  * Created by liwei5 on 2016/3/25.

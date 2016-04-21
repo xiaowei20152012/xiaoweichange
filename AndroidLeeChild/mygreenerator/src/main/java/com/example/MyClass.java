@@ -9,9 +9,9 @@ public class MyClass {
     {
         //初始化一下数据库
         //第一个参数是版本号,第二个参数是为你生成的bean类放的文件夹名
-        Schema schema = new Schema(1, "greendao");
+        Schema schema = new Schema(1, "com.lee.entitys");
         //设置一下生成的三个java文件的目录
-        schema.setDefaultJavaPackageDao("com.guangda.dao");
+        schema.setDefaultJavaPackageDao("com.lee.dao");
 
         //建立一个表
         Entity userBean = schema.addEntity("Users");
@@ -25,7 +25,9 @@ public class MyClass {
         userBean.addStringProperty("uTelphone");
         userBean.addStringProperty("uAge");
         userBean.addStringProperty("uName");
-        new DaoGenerator().generateAll(schema,"./mygreendao/src/main/java-gen");
+        userBean.addStringProperty("uPic");
+        userBean.addStringProperty("uChannel");
+        new DaoGenerator().generateAll(schema,"./LeeChild/src/main/java");
     }
 
 
