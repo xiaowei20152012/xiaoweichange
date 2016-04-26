@@ -83,3 +83,5 @@ http://www.jianshu.com/p/aa7238cd8daf
 http://blog.csdn.net/crazy__chen/article/details/50149619
 #艺龙十万级服务器监控系统开发的架构和心得
 http://geek.csdn.net/news/detail/48627
+#git 服务器的架构流程
+http://blog.csdn.net/king_sundi/article/details/7065525
