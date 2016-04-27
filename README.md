@@ -85,3 +85,5 @@ http://blog.csdn.net/crazy__chen/article/details/50149619
 http://geek.csdn.net/news/detail/48627
 #git 服务器的架构流程
 http://blog.csdn.net/king_sundi/article/details/7065525
+#java常量的几种写法
+http://blog.csdn.net/autofei/article/details/6419460
