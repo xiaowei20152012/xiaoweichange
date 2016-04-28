@@ -87,3 +87,4 @@ http://geek.csdn.net/news/detail/48627
 http://blog.csdn.net/king_sundi/article/details/7065525
 #java常量的几种写法
 http://blog.csdn.net/autofei/article/details/6419460
+#php常用的开发工具：windows可以用Ide phpstorm    环境配置可以用集成环境wampmanager  mac可以用MAMP
