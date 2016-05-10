@@ -1,7 +1,9 @@
 package com.lee.childbaby;
 
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.View;
 
 import com.lee.childbaby.dbhelper.DbService;
 import com.lee.entitys.Users;
@@ -25,6 +27,13 @@ public class MainActivity extends AppCompatActivity {
         user.setUPic("hell.png");
         user.setUSex("man");
         db.saveNote(user);
+
+        findViewById(R.id.hello).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(MainActivity.this,FadingWebActivity.class));
+            }
+        });
 
 
     }

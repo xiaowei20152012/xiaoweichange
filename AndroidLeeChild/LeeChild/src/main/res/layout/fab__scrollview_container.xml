@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.lee.fadingactionbar.view.RootLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <include layout="@layout/fab__header_container"/>
+    <com.lee.fadingactionbar.view.ObservableScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/fab__scroll_view"
+        android:fillViewport="true">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:id="@+id/fab__container">
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/fab__content_top_margin"
+                android:background="@android:color/transparent" />
+        </LinearLayout>
+
+    </com.lee.fadingactionbar.view.ObservableScrollView>
+
+</com.lee.fadingactionbar.view.RootLayout>
