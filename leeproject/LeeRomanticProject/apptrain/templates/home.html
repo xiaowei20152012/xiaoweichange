@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> Welcome </title>
+</head>
+<body>
+	Welcome to now
+	<form method='post'>{% csrf_token %} 
+		
+		{{form.as_p}}
+		<input type="submit" name = "ok">
+	</form>
+</body>
+</html>

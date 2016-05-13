@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title> Welcome </title>
+</head>
+<body>
+	Welcome to nowsswssss
+	<br>
+	
+	{{string}}
+	list  about something
+	{% for i in tutoriallist %}
+	{{i}}
+	</br>
+	{% endfor %}
+	<ul>
+	title:{{info_dict.title}}
+	<% empty %>
+		<li>sorry it is empty</li>
+	</ul>
+	content:{{info_dict.content}}
+	
+	<br>
+	
+	{% for key,value in info_dict.items %}
+		{{key}}:{{value}}
+	{% endfor %}
+	<br>
+	<ul>
+	{% for item in list%}
+		<li>{{item}}{%if not forloop.last%},{% endif %}</li>
+		<% empty %>
+		<li>sorry it is empty</li>
+	{% endfor %}
+	</ul>
+	{% url 'add' 4 5 %}
+	<a href={% url 'add' 4 5 %}>Link text</a>
+
+	<br>
+	{{ request.user }}
+	<br>
+	{{request.path}}
+	<br>
+	{{request.GET.urlencode}}
+	<br>
+	zhe shi message {{ message }}
+</body>
+</html>
