@@ -88,3 +88,8 @@ http://blog.csdn.net/king_sundi/article/details/7065525
 #java常量的几种写法
 http://blog.csdn.net/autofei/article/details/6419460
 #php常用的开发工具：windows可以用Ide phpstorm    环境配置可以用集成环境wampmanager  mac可以用MAMP
+
+#深入系统学习Android的CSDN参考：
+http://blog.csdn.net/luoshengyang/article/details/8923485
+#深入学习Android的常用问题
+http://blog.csdn.net/lmj623565791/article/details/49300989
